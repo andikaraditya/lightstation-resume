@@ -68,6 +68,10 @@
     justify-content: center;
 }
 
+#to-project {
+    text-align: end;
+}
+
 .about-section p {
     width: 70%;
 }

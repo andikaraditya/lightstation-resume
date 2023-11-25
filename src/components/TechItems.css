@@ -1,0 +1,14 @@
+.tech-item {
+    display: flex;
+}
+
+.tech-item img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.tech-item span {
+    align-self: center;
+    margin-left: 10px;
+    font-size: 1.4rem;
+}

@@ -1,0 +1,76 @@
+{
+    "PlanetQuiz": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg",
+            "name": "HTML"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
+            "name": "CSS"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+            "name": "Javascript"
+        }
+    ],
+    "SereneReads": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+            "name": "Node JS"
+        },
+        {
+            "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+            "name": "Express JS"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+            "name": "PostgreSQL"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+            "name": ""
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+            "name": "Vue"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+            "name": "bootstrap"
+        }
+    ],
+    "ThriftyBite": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+            "name": "Node JS"
+        },
+        {
+            "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+            "name": "Express JS"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+            "name": "PostgreSQL"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+            "name": ""
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+            "name": "React native"
+        },
+        {
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/34/d1/2e34d152-0f11-064d-5dc2-a762f8e24b70/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "name": "Expo Go"
+        },
+        {
+            "image": "https://images.ctfassets.net/lpjm8d10rkpy/3ZH89y9VHHd53v4OQ3BG0V/f9832f714b1075b424d90f5e31141c0b/cloudinary_cloud_glyph_regular.svg",
+            "name": "Cloudinary"
+        },
+        {
+            "image": "https://midtrans.com/assets/img/midtrans-logoo.jpg?v=1676436294",
+            "name": "Midtrans"
+        }
+    ]
+}

@@ -1,10 +1,13 @@
 import "./App.css"
 import ProfilePage from "./views/ProfilePage"
+import { RouterProvider } from "react-router-dom";
+import { router } from "./routes";
 
 function App() {
     return (
         <>
-            <ProfilePage />
+            <RouterProvider router={router}>
+            </RouterProvider>
         </>
     )
 }
