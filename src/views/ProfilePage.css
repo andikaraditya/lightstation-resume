@@ -1,0 +1,85 @@
+.profile-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+}
+
+.side-profile {
+    background-color: var(--primary);
+    width: 40%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.side-profile img {
+    border-radius: 100%;
+}
+
+.profile-container div:nth-of-type(1) img {
+    width: 50%;
+    align-self: center;
+}
+
+.info {
+    align-self: center;
+    width: 100%;
+    /* background-color: green; */
+    margin-top: 2.5rem;
+}
+
+.info h1 {
+    font-size: 4rem;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.info p {
+    font-size: 2rem;
+    text-align: center;
+    width: 60%;
+    margin: 2rem auto;
+}
+
+
+
+.contact-container {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    width: 50%;
+    align-self: center;
+}
+
+.contact-container svg {
+    color: white;
+    width: 3rem;
+    height: 3rem;
+}
+
+.about-section {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5rem;
+    justify-content: center;
+}
+
+.about-section p {
+    width: 70%;
+}
+
+#about-title {
+    color: var(--primary);
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.about-text {
+    color: var(--black);
+    font-size: 2rem;
+    line-height: 3rem;
+}

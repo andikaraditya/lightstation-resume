@@ -1,0 +1,15 @@
+:root {
+    --primary: rgb(87,162,216);
+    --black: #454545
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    /* font-weight: bold; */
+    text-decoration: underline;
+}
