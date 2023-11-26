@@ -15,7 +15,7 @@ function ProfilePage() {
                     </div>
                     <div className="contact-container">
                         <div>
-                            <a href="" target="_blank">
+                            <a href="mailto:andikaraditya1@gmail.com" target="_blank">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 width="16"
@@ -43,7 +43,7 @@ function ProfilePage() {
                             </a>
                         </div>
                         <div>
-                            <a href="" target="_blank">
+                            <a href="https://wa.me/083869055363" target="_blank">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 width="16"
