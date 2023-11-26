@@ -36,8 +36,19 @@ header p {
 .item-main {
     width: 50%;
     background-color: var(--primary);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
+.wide {
+    width: 60%;
+    margin: 1rem 0;
+}
+.tall {
+    width: 30%;
+}
 .item-detail {
     width: 50%;
     display: flex;

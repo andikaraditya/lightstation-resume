@@ -18,6 +18,9 @@ function ProjectPage() {
             <div id="project-body">
                 <div className="project-container">
                     <div className="item-main">
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178144696695005274/9k.png?ex=657513c0&is=65629ec0&hm=163ce309fc8b3ba720812a60ed59258e5da0a7a3ffd9efb1e450a94ef151bce5&" alt="" />
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178145542472212530/9k.png?ex=6575148a&is=65629f8a&hm=e2936d8470aa5618f4ebbbfd9c4782202b827c49cc563a74e0a5aebfb32caeb8&" alt="" />
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178144697693249616/2Q.png?ex=657513c0&is=65629ec0&hm=522950d9e8301bf7c03151eb7698852d8f3bafae9a8927872ecd9f19fb098e93&" alt="" />
                     </div>
                     <div className="item-detail">
                         <h2>Planet Quiz</h2>
@@ -55,10 +58,15 @@ function ProjectPage() {
                         </div>
                     </div>
                     <div className="item-main">
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178144950056136815/Z.png?ex=657513fc&is=65629efc&hm=6eb02a386d52c8ff2a4917fdb345f9c8b01d0d9bb38ace99a3aa61e00b48c925&" alt="" />
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178144950727213147/image.png?ex=657513fd&is=65629efd&hm=4b63badd6ccd550d913bfdb9a3690b94a41012966450a62dc44f959e4e78085d&" alt="" />
                     </div>
                 </div>
                 <div className="project-container">
                     <div className="item-main">
+                        <img className="tall" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178145231804313630/1700613567649.png?ex=65751440&is=65629f40&hm=388f88be9e598bd1df5fba2ccd86a5cc7f90726be4a5f252d90ade32e51f6532&" alt="" />
+                        <img className="tall" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178145232613806231/1700613567678.png?ex=65751440&is=65629f40&hm=813c963785ebeb7405ea2275a5a7fd2a371aa509aaee7f172bcc888e7aa67ca2&" alt="" />
+                        <img className="tall" src="https://cdn.discordapp.com/attachments/1157904545201008703/1178145233037443152/1700613567709.png?ex=65751440&is=65629f40&hm=b41a8f5272f686c37cca3ff7ec29488e7d6744ca685bb1b6613b41874b1ca684&" alt="" />
                     </div>
                     <div className="item-detail">
                         <h2>ThriftyBite</h2>
