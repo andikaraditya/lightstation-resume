@@ -1,6 +1,6 @@
 import "./ProfilePage.css"
 import { useNavigate } from "react-router-dom";
-import profile from "../assets/profile.jpg";
+
 
 function ProfilePage() {
     const navigate = useNavigate()
@@ -8,7 +8,7 @@ function ProfilePage() {
         <>
             <div className="profile-container">
                 <div className="side-profile">
-                    <img src={profile} />
+                    <img src="/profile.jpg" />
                     <div className="info">
                         <h1>Andika Radityatama</h1>
                         <p>A fullstack web developer</p>
