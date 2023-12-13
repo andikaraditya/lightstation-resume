@@ -27,3 +27,15 @@ header p {
     flex-direction: column;
     width: 100%;
 }
+
+@media (max-width: 1100px) {
+    header h1 {
+        font-size: 4rem;
+        margin: 1rem 0;
+    }
+
+    header p {
+        width: 80%;
+        font-size: 1.5rem;
+    }
+}
