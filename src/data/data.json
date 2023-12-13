@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Planet Quiz",
+        "description": "Planet Quiz provides a sophisticated interactive platform allowing users to engage in a quiz game centered around solar system planets. Participants are prompted to deduce the identity of planets through provided clues, facilitating an educational and enjoyable experience.",
+        "images": [
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178144696695005274/9k.png?ex=657513c0&is=65629ec0&hm=163ce309fc8b3ba720812a60ed59258e5da0a7a3ffd9efb1e450a94ef151bce5&"
+            },
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178145542472212530/9k.png?ex=6575148a&is=65629f8a&hm=e2936d8470aa5618f4ebbbfd9c4782202b827c49cc563a74e0a5aebfb32caeb8&"
+            },
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178144697693249616/2Q.png?ex=657513c0&is=65629ec0&hm=522950d9e8301bf7c03151eb7698852d8f3bafae9a8927872ecd9f19fb098e93&"
+            }
+        ],
+        "links": [
+            {
+                "name": "Github",
+                "link": "https://github.com/andikaraditya/PlanetQuiz"
+            }
+        ],
+        "techStacks": [
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg",
+                "name": "HTML"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
+                "name": "CSS"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+                "name": "Javascript"
+            }
+        ]
+    },
+    {
+        "name": "SereneReads",
+        "description": "A full-stack book forum website, this platform serves as an engaging hub for book enthusiasts. The creation involved the design of an intuitive front-end using Vue, complemented by the implementation of robust backend features through Express.js and PostgreSQL.",
+        "images": [
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178144950056136815/Z.png?ex=657513fc&is=65629efc&hm=6eb02a386d52c8ff2a4917fdb345f9c8b01d0d9bb38ace99a3aa61e00b48c925&"
+            },
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178144950727213147/image.png?ex=657513fd&is=65629efd&hm=4b63badd6ccd550d913bfdb9a3690b94a41012966450a62dc44f959e4e78085d&"
+            }
+        ],
+        "links": [
+            {
+                "name": "Server",
+                "link": "https://github.com/andikaraditya/serene-reads-server"
+            },
+            {
+                "name": "Client",
+                "link": "https://github.com/andikaraditya/serene-reads-client"
+            }
+        ],
+        "techStacks": [
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+                "name": "Node JS"
+            },
+            {
+                "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+                "name": "Express JS"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+                "name": "PostgreSQL"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+                "name": ""
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+                "name": "Vue"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+                "name": "bootstrap"
+            }
+        ]
+    },
+    {
+        "name": "ThriftyBite",
+        "description": "I directed the development of a mobile application focused on minimizing food waste through the streamlined sale of surplus food items. Took charge of the project, guiding the creation of an intuitive and user-friendly interface using React Native. Collaborated on both backend and mobile aspects to ensure smooth functionality and secure transactions.",
+        "images": [
+            {
+                "size": "tall",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178145231804313630/1700613567649.png?ex=65751440&is=65629f40&hm=388f88be9e598bd1df5fba2ccd86a5cc7f90726be4a5f252d90ade32e51f6532&"
+            },
+            {
+                "size": "tall",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178145232613806231/1700613567678.png?ex=65751440&is=65629f40&hm=813c963785ebeb7405ea2275a5a7fd2a371aa509aaee7f172bcc888e7aa67ca2&"
+            },
+            {
+                "size": "tall",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1178145233037443152/1700613567709.png?ex=65751440&is=65629f40&hm=b41a8f5272f686c37cca3ff7ec29488e7d6744ca685bb1b6613b41874b1ca684&"
+            }
+        ],
+        "links": [
+            {
+                "name": "Github",
+                "link": "https://github.com/orgs/Final-Project-hacktiv8-RMT-41/repositories"
+            },
+            {
+                "name": "Article",
+                "link": "https://www.linkedin.com/pulse/tasted-wasted-how-we-fight-food-waste-andika-radityatama-o6bjc%3FtrackingId=w%252Fm7ARAaRKumZeOIxvvwiA%253D%253D/?trackingId=w%2Fm7ARAaRKumZeOIxvvwiA%3D%3D"
+            }
+        ],
+        "techStacks": [
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+                "name": "Node JS"
+            },
+            {
+                "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+                "name": "Express JS"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+                "name": "PostgreSQL"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+                "name": ""
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+                "name": "React native"
+            },
+            {
+                "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/34/d1/2e34d152-0f11-064d-5dc2-a762f8e24b70/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+                "name": "Expo Go"
+            },
+            {
+                "image": "https://images.ctfassets.net/lpjm8d10rkpy/3ZH89y9VHHd53v4OQ3BG0V/f9832f714b1075b424d90f5e31141c0b/cloudinary_cloud_glyph_regular.svg",
+                "name": "Cloudinary"
+            },
+            {
+                "image": "https://midtrans.com/assets/img/midtrans-logoo.jpg?v=1676436294",
+                "name": "Midtrans"
+            }
+        ]
+    },
+    {
+        "name": "Lighstation Blog",
+        "description": "An elegantly crafted personal blog, showcasing a sophisticated minimalist design. Developed with a robust Node.js backend and a polished Nuxt.js frontend.",
+        "images": [
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1184326707897970779/FireShot_Capture_363_-_-_localhost.png?ex=658b9132&is=65791c32&hm=7087ac86b5cc89377ed14e3ad57f73bfb6284ba1e11b335effb2a3fd6c81f8cc&"
+            },
+            {
+                "size": "wide",
+                "link": "https://cdn.discordapp.com/attachments/1157904545201008703/1184326708514537522/FireShot_Capture_364_-_-_localhost.png?ex=658b9133&is=65791c33&hm=bf8910cb26dc9441f323085a530b84f29cc9348d5c4dfd1e938fc5fae48370cb&"
+            }
+        ],
+        "links": [
+            {
+                "name": "Github",
+                "link": "https://github.com/andikaraditya/blog-vue"
+            }
+        ],
+        "techStacks": [
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+                "name": "Node JS"
+            },
+            {
+                "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+                "name": "Express JS"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+                "name": "PostgreSQL"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+                "name": "Vue"
+            },
+            {
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg",
+                "name": "Nuxt.js"
+            }
+        ]
+    }
+]
