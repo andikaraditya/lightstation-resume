@@ -87,6 +87,30 @@ function ProjectPage() {
                         </div>
                     </div>
                 </div>
+                <div className="project-container">
+                    <div className="item-detail">
+                        <h2>Lightstation Blog</h2>
+                        <p>An elegantly crafted personal blog, showcasing a sophisticated minimalist design. Developed with a robust Node.js backend and a polished Nuxt.js frontend.
+                        <br />
+                        <a href="https://github.com/Final-Project-hacktiv8-RMT-41" target="_blank">Github</a>
+                        </p>
+                        <p>Tech stacks used</p>
+                        <div className="tech-container">
+                            {data.LightstationBlog.map((el, index) => {
+                                return (
+                                    <TechItems 
+                                    tech={el}
+                                    key={index}
+                                    />
+                                )
+                            })}
+                        </div>
+                    </div>
+                    <div className="item-main">
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1184326707897970779/FireShot_Capture_363_-_-_localhost.png?ex=658b9132&is=65791c32&hm=7087ac86b5cc89377ed14e3ad57f73bfb6284ba1e11b335effb2a3fd6c81f8cc&" alt="" />
+                        <img className="wide" src="https://cdn.discordapp.com/attachments/1157904545201008703/1184326708514537522/FireShot_Capture_364_-_-_localhost.png?ex=658b9133&is=65791c33&hm=bf8910cb26dc9441f323085a530b84f29cc9348d5c4dfd1e938fc5fae48370cb&" alt="" />
+                    </div>
+                </div>
             </div>
         </>
     );

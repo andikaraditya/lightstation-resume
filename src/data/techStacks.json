@@ -72,5 +72,27 @@
             "image": "https://midtrans.com/assets/img/midtrans-logoo.jpg?v=1676436294",
             "name": "Midtrans"
         }
+    ],
+    "LightstationBlog": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+            "name": "Node JS"
+        },
+        {
+            "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+            "name": "Express JS"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+            "name": "PostgreSQL"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg",
+            "name": "Vue"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg",
+            "name": "Nuxt.js"
+        }
     ]
 }
