@@ -71,10 +71,10 @@ function ProfilePage() {
                         navigate("/projects")
                     }}>My projects →</a></p>
                     <p id="about-title">About Me</p>
-                    <p className="about-text">Enthusiastic Full Stack JavaScript Developer with a <b>solid foundation in both backend and frontend technologies</b>. Proficient in Node.js, Express.js, Vue js, React.js, and React Native. 
-                    <br/>
-                    Experienced in crafting <b>responsive user interfaces, implementing RESTful APIs, and utilizing databases such as MongoDB and PostgreSQL.</b> 
-                    <br/>
+                    <p className="about-text">Enthusiastic Full Stack JavaScript Developer with a <b>solid foundation in both backend and frontend technologies</b>. Proficient in Node.js, Express.js, Vue js, React.js, and React Native. </p>
+                    <p className="about-text">
+                    Experienced in crafting <b>responsive user interfaces, implementing RESTful APIs, and utilizing databases such as MongoDB and PostgreSQL.</b> </p>
+                    <p className="about-text">
                     Graduated Hactiv8 javascript program with an <b>excellent score of 95% and Teachers Award</b></p>
                     <p className="about-text">Check out my <a href="https://drive.google.com/file/d/1TCIKyiCtyMI7_zvnNS_yBz1sxp_LboUR/view?usp=sharing" target="_blank">CV</a> or explore my <a 
                     href=""
