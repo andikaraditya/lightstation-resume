@@ -1,6 +1,5 @@
 import "./TechItems.css"
-function TechItems(props) {
-    const {tech} = props
+function TechItems({tech}) {
     return (
         <div className="tech-item">
             <img src={tech.image} alt="" />

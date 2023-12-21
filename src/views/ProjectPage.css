@@ -22,6 +22,15 @@ header p {
     font-size: 2rem;
 }
 
+#stacks-container {
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-around;
+    margin: 1rem 0;
+}
+
 #project-body {
     display: flex;
     flex-direction: column;
